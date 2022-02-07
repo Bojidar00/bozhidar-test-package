@@ -1,6 +1,6 @@
 {
   "name": "bozhidar-test-package",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "private": false,
   "main":"/dist/bozhidar-test-package.common.js",
   "scripts": {
@@ -35,6 +35,10 @@
       "parser": "babel-eslint"
     },
     "rules": {}
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Bojidar00/bozhidar-test-package"
   },
   "browserslist": [
     "> 1%",
